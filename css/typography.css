@@ -8,12 +8,12 @@ body {
 }
 
 .button-text {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
 }
 
 .image-caption {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
 }
 
@@ -23,12 +23,12 @@ body {
 }
 
 .subheader-text {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 700;
 }
 
 .body-text {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 500;
 }
 
