@@ -53,7 +53,7 @@ body {
 #portfolio-header-text-container {
   display: flex;
   flex-direction: column;
-  gap: 34px;
+  gap: 3px;
   flex-basis: 50%;
 }
 
