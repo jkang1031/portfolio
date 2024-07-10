@@ -97,7 +97,7 @@ body {
       max-width: calc((100% - 32px) / 3);
       display: flex;
       flex-direction: column;
-      gap: 34px;
+      gap: 34px 16px;
     }
 
     .project-card-text-container {
