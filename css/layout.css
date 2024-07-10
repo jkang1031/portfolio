@@ -82,7 +82,7 @@ body {
 #my-work-section {
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 34px 16px;
 }
 
 .projects-container {
