@@ -82,7 +82,7 @@ body {
 #my-work-section {
   display: flex;
   flex-direction: column;
-  gap: 34px 16px;
+  gap: 16px;
 }
 
 .projects-container {
@@ -112,6 +112,8 @@ body {
       object-fit: cover;
       object-position: center;
     }
+
+
 
 
 /* Project Pages */
@@ -216,6 +218,3 @@ body {
     max-width: 100%;
   }
 }
-
-
-
