@@ -97,13 +97,13 @@ body {
       max-width: calc((100% - 32px) / 3);
       display: flex;
       flex-direction: column;
-      gap: 34px 16px;
+      gap: 34px;
     }
 
     .project-card-text-container {
       flex-direction: column;
       display: flex;
-      gap: 34px 16px
+      gap: 16px
     }
 
     .project-image {
@@ -112,8 +112,6 @@ body {
       object-fit: cover;
       object-position: center;
     }
-
-
 
 
 /* Project Pages */
