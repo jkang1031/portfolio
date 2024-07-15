@@ -86,15 +86,17 @@ body {
   align-items :center
 }
 
+
 .section-header-wrapper {
   width: 100%;
   display: flex;
-  justify-content: flex-start; /* Aligns content to the left */
-  padding-left: 16px; /* Adjust this value to match the left padding of the project cards */
+  justify-content: center; /* Centers the header wrapper within the section */
 }
 
 .section-header {
   margin: 0;
+  max-width: calc((100% - 32px) / 3); /* Matches the project card width */
+  text-align: left; /* Ensures the text inside the header is left-aligned */
 }
 
 .projects-container {
