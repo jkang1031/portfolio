@@ -121,18 +121,18 @@ body {
 #project-header {
   display: flex;
   flex-direction: column;
-  gap: 5 px;
+  gap: 16 px;
 }
 
 .project-header-image {
-  width: 100%;
+  width: 120%;
   height: auto;
 }
 
 #project-details {
   display: flex;
   flex-direction: column;
-  gap: 5 px;
+  gap: 16 px;
 }
 
 .project-details-content {
