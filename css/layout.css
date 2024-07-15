@@ -83,7 +83,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  justify-content:first baseline;
+  text-align: start;
 }
 
 .projects-container {
