@@ -83,7 +83,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  text-align: start;
+  align-items: center;
 }
 
 .projects-container {
