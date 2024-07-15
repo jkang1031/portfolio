@@ -83,7 +83,18 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  align-items :normal
+  align-items :center
+}
+
+.section-header-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start; /* Aligns content to the left */
+  padding-left: 16px; /* Adjust this value to match the left padding of the project cards */
+}
+
+.section-header {
+  margin: 0;
 }
 
 .projects-container {
