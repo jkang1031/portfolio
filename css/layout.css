@@ -25,6 +25,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 96px;
+  align-items: center;
 }
 
 
@@ -83,12 +84,14 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
+  align-items : center;
 }
 
 .projects-container {
   display: flex;
   gap: 34px ;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
     /* Project Cards */
