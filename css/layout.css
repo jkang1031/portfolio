@@ -90,7 +90,7 @@ body {
 .section-header-wrapper {
   width: 100%;
   display: flex;
-  justify-content: last baseline; /* Centers the header wrapper within the section */
+  justify-content: left; /* Centers the header wrapper within the section */
 }
 
 .section-header {
