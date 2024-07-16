@@ -83,14 +83,14 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  align-items :last baseline
+  align-items :center
 }
 
 
 .section-header-wrapper {
   width: 100%;
   display: flex;
-  justify-content: center; /* Centers the header wrapper within the section */
+  justify-content: last baseline; /* Centers the header wrapper within the section */
 }
 
 .section-header {
