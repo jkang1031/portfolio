@@ -63,7 +63,10 @@ body {
 /* About Section */
 
 #about-section {
- 
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
 
 .about-section-content {
   display: flex;
@@ -80,20 +83,6 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  align-items :center
-}
-
-
-.section-header-wrapper {
-  width: 100%;
-  display: flex;
-  justify-content:first baseline; /* Centers the header wrapper within the section */
-}
-
-.section-header {
-  margin: 0;
-  max-width: calc((100% - 32px) / 3); /* Matches the project card width */
-  text-align: left; /* Ensures the text inside the header is left-aligned */
 }
 
 .projects-container {
